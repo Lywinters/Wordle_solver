@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 Lydia Winterscheidt  <lydia@example.com>
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 import time
 
 from suggestor import GreedySuggestor

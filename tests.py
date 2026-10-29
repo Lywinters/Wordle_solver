@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 Lydia Winterscheidt  <lydia@example.com>
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 # Exemplary test with pytest for completeness sake. Not fully formed, since this is not the focus of this exercise
 import wordlegame
 from util import read_file

@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 Lydia Winterscheidt  <lydia@example.com>
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 import wordlegame
 
 from util import all_equal, read_file
